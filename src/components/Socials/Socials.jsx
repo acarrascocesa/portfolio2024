@@ -7,7 +7,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Socials = () => {
   return (
-    <div className="user_info__links">
+    <div className="user-info__links">
       <ul className="links__social">
         <li className="social__option">
           <a
